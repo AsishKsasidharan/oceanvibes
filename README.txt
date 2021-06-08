@@ -1,6 +1,6 @@
 
-TITLE: 
-24 News - 100% Fully Responsive Free HTML5 Bootstrap Template
+Oceanvibes is a non-profitable scientific society of oceanographers,scientists, students from Cochin University of science and technology.
+This is a open source blog maintained by Oceanvibes organization.
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
