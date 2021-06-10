@@ -2,8 +2,8 @@
 Oceanvibes is a non-profitable scientific society of oceanographers,scientists, students from Cochin University of science and technology.
 This is a open source blog maintained by Oceanvibes organization.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+
+WEBSITE DESIGNED & DEVELOPED by FreeHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
@@ -11,6 +11,9 @@ Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
+
+Github
+http://github.com
 
 Bootstrap
 http://getbootstrap.com/
